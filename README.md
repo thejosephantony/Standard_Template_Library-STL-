@@ -910,7 +910,6 @@ O foco principal é compreender não apenas como usar a STL, mas também:
 
 **Joseph Antony**  
 Estudante de Engenharia da Computação  
-Universidade Federal de Sergipe
 
 GitHub: [@thejosephantony](https://github.com/thejosephantony)
 
